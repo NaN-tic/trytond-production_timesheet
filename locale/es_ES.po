@@ -1,0 +1,35 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:production,currency_digits:"
+msgid "Currency Digits"
+msgstr "Decimales de moneda"
+
+msgctxt "field:production,timesheet_cost:"
+msgid "Timesheet Cost"
+msgstr "Coste de hoja de trabajo"
+
+msgctxt "field:production,total_cost:"
+msgid "Total Cost"
+msgstr "Coste total"
+
+msgctxt "field:production,work:"
+msgid "Work"
+msgstr "Trabajo"
+
+msgctxt "field:timesheet.work,cost:"
+msgid "Cost"
+msgstr "Coste"
+
+msgctxt "field:timesheet.work,currency_digits:"
+msgid "Currency Digits"
+msgstr "Decimales de moneda"
+
+msgctxt "view:product.template:"
+msgid "Review"
+msgstr "Revisión"
+
+msgctxt "view:production:"
+msgid "Timesheet"
+msgstr "Hoja de trabajo"

@@ -1,0 +1,35 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:production,currency_digits:"
+msgid "Currency Digits"
+msgstr "Decimals de moneda"
+
+msgctxt "field:production,timesheet_cost:"
+msgid "Timesheet Cost"
+msgstr "Cost del full de treball"
+
+msgctxt "field:production,total_cost:"
+msgid "Total Cost"
+msgstr "Cost total"
+
+msgctxt "field:production,work:"
+msgid "Work"
+msgstr "Treball"
+
+msgctxt "field:timesheet.work,cost:"
+msgid "Cost"
+msgstr "Cost"
+
+msgctxt "field:timesheet.work,currency_digits:"
+msgid "Currency Digits"
+msgstr "Decimals de moneda"
+
+msgctxt "view:product.template:"
+msgid "Review"
+msgstr "Revisió"
+
+msgctxt "view:production:"
+msgid "Timesheet"
+msgstr "Full de treball"
