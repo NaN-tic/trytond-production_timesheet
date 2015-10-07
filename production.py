@@ -28,6 +28,10 @@ class Production:
     currency_digits = fields.Function(fields.Integer('Currency Digits'),
         'on_change_with_currency_digits')
 
+    @classmethod
+    def default_currency_digits(cls):
+        return 2
+
     @fields.depends('work')
     def on_change_with_timesheet_cost(self, name=None):
         return self.work.cost if self.work else 0
