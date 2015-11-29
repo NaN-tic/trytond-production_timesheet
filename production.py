@@ -1,14 +1,9 @@
 # This file is part production_timesheet module for Tryton.
 # The COPYRIGHT file at the top level of this repository contains
 # the full copyright notices and license terms.
-from decimal import Decimal
-import datetime
-
 from trytond.model import fields
 from trytond.pyson import Eval
-from trytond.transaction import Transaction
-from trytond.pool import Pool, PoolMeta
-from trytond.tools import reduce_ids
+from trytond.pool import PoolMeta
 
 __all__ = ['Production']
 __metaclass__ = PoolMeta
