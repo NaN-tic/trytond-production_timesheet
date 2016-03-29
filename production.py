@@ -6,10 +6,10 @@ from trytond.pyson import Eval
 from trytond.pool import PoolMeta
 
 __all__ = ['Production']
-__metaclass__ = PoolMeta
 
 
 class Production:
+    __metaclass__ = PoolMeta
     __name__ = "production"
     work = fields.Many2One('timesheet.work', 'Work')
     timesheet_cost = fields.Function(fields.Numeric('Timesheet Cost',
